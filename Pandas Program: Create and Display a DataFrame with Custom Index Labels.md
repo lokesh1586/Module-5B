@@ -14,7 +14,7 @@ To create and display a **DataFrame** using the **Pandas** library in Python fro
 3. **Index Labels**: Create a list of custom index labels called `labels`.
 4. **Create DataFrame**: Use `pd.DataFrame()` to create the DataFrame by passing the dictionary and index labels.
 5. **Display Output**: Display the DataFrame using `print()` or by simply calling the DataFrame variable.
-
+1
 ---
 
 ## 💻 Program
